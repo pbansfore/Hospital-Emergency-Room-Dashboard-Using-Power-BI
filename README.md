@@ -3,6 +3,7 @@
 ## 🔹 Project Overview
 
 This **Hospital Emergency Room Dashboard** is a Power BI solution designed to visualize and analyze patient flow, satisfaction, department referrals, and admission patterns.  
+
 The data covers **9,216 patient visits over a period of 19 months (April 2023 - October 2024)**.  
 The main objective of this project is to help the hospital **optimize resources, reduce waiting times, and improve patient care delivery**.
 
