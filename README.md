@@ -26,7 +26,7 @@ The main objective of this project is to help the hospital **optimize resources,
 
 Below are key measures used in this Power BI Dashboard:
 
-| **Measure** | **KPIs** |
+| **Measure / KPIs** | **DAX Formulas** |
 |------------|------------|
 | **No of Patients** | `DISTINCTCOUNT('Hospital ER_Data'[Patient Id])` |
 | **Avg Wait Time1** | `FORMAT(AVERAGE('Hospital ER_Data'[Patient Waittime]), "0.0") & " " & "Min"` |
