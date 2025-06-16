@@ -59,7 +59,7 @@ Below are key measures used in this Power BI Dashboard:
 - Implement **fast-track services for less severe cases**.
 - Leverage **technology to streamline patient flow** and reduce bottlenecks.
 
-✅ **Improve Late-Night Services:**  
+✅ **Improve Late-Night and Early-Morning Services:**  
 - Allocate additional staffing during **10 pm to 8 am**.
 - Provide specialized care and a comfortable, well-equipped environment during overnight hours.
 
