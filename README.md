@@ -8,17 +8,10 @@ The main objective of this project is to help the hospital **optimize resources,
 
 ---
 
-## 📊 Key Features
+## 🛠 Tools & Techniques
 
-✅ **Interactive Visualizations:**  
-- Monthly view of patient volumes, average wait time, satisfaction score, and department referrals.  
-- Detailed view for patient age, gender, race, and admission status.  
-- Summary view to track key trends and busy periods.
-
-✅ **Custom Visuals:**  
-- Heatmaps for patient flow by day and hour.  
-- Bar, donut, and line charts for department referrals and patient demographics.  
-- Measures and calculations (using DAX) for average wait time, satisfaction score, admission rate, and total patient visits.
+- **Excel:** For initial data cleaning and data validation.
+- **Power Query:** To clean & transform raw data and to create interactive reports and visualizations.
 
 ---
 
@@ -69,15 +62,6 @@ Staff adequately during 11 pm to 6 am, maintain service cleanliness, and provide
 
 ✅ **Target Department-Specific Improvement:**  
 For male patients in Renal and for female patients in Physiotherapy, consider patient feedback to enhance service delivery.
-
----
-
-## 🛠 Tools & Techniques
-
-- **Power BI Desktop:** To create interactive reports and visualizations.
-- **DAX:** To perform custom calculations and create measures.
-- **Power Query:** To clean and transform raw data.
-- **Custom Date Table:** To enable flexible time intelligence and filtering.
 
 ---
 
