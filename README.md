@@ -12,7 +12,7 @@ The main objective of this project is to help the hospital **optimize resources,
 ## 🛠 Tools & Techniques
 
 - **Excel:** For initial data cleaning and data validation.
-- **Power Query:** To clean & transform raw data and to create interactive reports and visualizations.
+- **Power BI:** To clean & transform raw data and to create interactive reports and visualizations.
 
 ---
 
