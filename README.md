@@ -35,7 +35,7 @@ Below are key measures used in this Power BI Dashboard:
 
 ➥ **Patient Flow and Volume:**  
 - The department treated **9,216 unique patients** over 19 months (April 2023–October 2024).
-- **Busiest days:** Saturday (1,377), Sunday (1,318).
+- **Busiest days:** Saturdays (1,377) & Sundays (1,318).
 - **Busiest hours:** 10 PM to 12 AM & 06 AM to 08 AM, indicating a need for appropriate staffing during these periods.
 
 ➥ **Patient Demographics:**  
