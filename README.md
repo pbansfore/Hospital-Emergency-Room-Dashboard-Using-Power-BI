@@ -22,6 +22,19 @@ The main objective of this project is to help the hospital **optimize resources,
 
 ---
 
+## 🧮 Measures (DAX)
+
+Below are key measures used in this Power BI Dashboard:
+
+| **Measure** | **KPIs** |
+|------------|------------|
+| **No of Patients** | `DISTINCTCOUNT('Hospital ER_Data'[Patient Id])` |
+| **Avg Wait Time1** | `FORMAT(AVERAGE('Hospital ER_Data'[Patient Waittime]), "0.0") & " " & "Min"` |
+| **Satisfaction Score** | `AVERAGE('Hospital ER_Data'[Patient Satisfaction Score])` |
+| **No of Patients Referred** | `CALCULATE(COUNTROWS('Hospital ER_Data'), 'Hospital ER_Data'[Department Referral] <> "None")` |
+
+---
+
 ## 📐 Important KPIs & Metrics
 
 - **Average Wait Time:** 35.3 minutes
