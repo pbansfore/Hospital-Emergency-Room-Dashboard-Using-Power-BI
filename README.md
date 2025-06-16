@@ -29,8 +29,6 @@ Below are key measures used in this Power BI Dashboard:
 
 ---
 
-# 🏥 Emergency Department Analysis — Findings & Recommendations
-
 ## 🔍 Findings
 
 ➥ **Patient Flow and Volume:**  
