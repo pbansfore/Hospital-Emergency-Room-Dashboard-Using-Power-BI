@@ -28,52 +28,53 @@ Below are key measures used in this Power BI Dashboard:
 
 ---
 
-## 📐 Important KPIs & Metrics
+# 🏥 Emergency Department Analysis — Findings & Recommendations
 
-- **Average Wait Time:** 35.3 minutes
-- **Satisfaction Score:** 4.99/10
-- **Admission Rate:** 50%
-- **Most Referred Departments:** General Practice (1840), Orthopedics (995), Physiotherapy (276), Cardiology (248)
+## 🔍 Findings
+
+➥ **Patient Flow and Volume:**  
+- The department treated **9,216 unique patients** over 19 months (April 2023–October 2024).
+- **Busiest days:** Saturday (1,377), Sunday (1,318).
+- **Busiest hours:** 10 PM to 12 AM & 06 AM to 08 AM, indicating a need for appropriate staffing during these periods.
+
+➥ **Patient Demographics:**  
+- Large age groups were **adults 30–39 (about 1,200)** and **young adults 20–29 (about 1,188)**.
+- The racial distribution highlights **White (2.6k)**, **Black or African American (2.0k)**, **Multiracial (1.6k)**, and **Asian (1.1k) patients**.
+
+➥ **Admission and Referral Trends:**  
+- **About 50% were discharged and 50% were admitted.**
+- The most frequently referred department was **General Practice (1.8k)**, followed by **Orthopedics (1.0k)**, **Physiotherapy (0.3k)**, and **Cardiology (0.2k)**.
+- Large number (about 5,400) required no department referrals.
+
+➥ **Patient Experience:**  
+- The average waiting time was **35.3 minutes** — fairly lengthy for an Emergency Department.
+- The average satisfaction score was **4.99/10**, reflecting a need for service improvement.
 
 ---
 
-## 👥 Demographic and Behavioral Insights
-
-- **Patient Age:** Large groups were adults 30-39 (about 1,200) and young adults 20-29 (about 1,188).
-- **Race Distribution:** White (2,571), Black or African American (1,951), Multiracial (1,557), and Asian (1,060).
-- **Admission vs Discharge:** Approximately 50% were discharged and 50% were admitted.
-
----
-
-## ⏱ Peak Period Analysis
-
-- **Busiest Days:** Monday (1,377), Saturday (1,322), Tuesday (1,318).
-- **Busiest Hours:** 11 AM, 7 PM, 11 PM — reflecting a need for appropriate staffing during these periods.
-
----
-
-## 🔹 Recommendations
+## 🚀 Recommendations
 
 ✅ **Reduce Waiting Times:**  
-Implement fast-track services for less severe cases and leverage technology to streamline patient flow.
+- Implement **fast-track services for less severe cases**.
+- Leverage **technology to streamline patient flow** and reduce bottlenecks.
 
 ✅ **Improve Late-Night Services:**  
-Staff adequately during 11 pm to 6 am, maintain service cleanliness, and provide specialized care.
+- Allocate additional staffing during **10 pm to 8 am**.
+- Provide specialized care and a comfortable, well-equipped environment during overnight hours.
 
-✅ **Target Department-Specific Improvement:**  
-For male patients in Renal and for female patients in Physiotherapy, consider patient feedback to enhance service delivery.
+✅ **General Recommendations:**  
+- Monitor busy periods closely to align staffing with patient flow.
+- Develop initiatives to **improve patient satisfaction**, from reducing waiting time to improving communication and care delivery.
 
 ---
 
 ## 📁 Summary
 
-This Power BI Dashboard converts raw hospital data into actionable insight, helping stakeholders to:
+Using these insights, the hospital can **improve patient satisfaction and care delivery by reducing waiting periods, optimizing staffing during peak hours, and addressing department-specific weaknesses**. Implementing these recommendations will help align service delivery with patient needs and drive **higher health outcomes in the Emergency Department**, ultimately strengthening the hospital’s ability to provide **timely, efficient, and patient-centric care**.
 
-- Allocate resources more efficiently.
-- Reduce patient waiting time.
-- Improve patient satisfaction and care delivery.
 
 ---
+
 
 
 
